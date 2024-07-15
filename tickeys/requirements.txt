@@ -1,7 +1,7 @@
 cython==0.20.2
 kivy==1.9.0
-setuptools==19.2
-pyinstaller==3.0
+setuptools==70.0.0
+pyinstaller==5.13.1
 sounddevice
 soundfile
 notify2
